@@ -53,3 +53,4 @@ The dataset consists of **paired Spanish-English sentences**, provided by **Anki
 - Challenges in handling **special characters** in Spanish.
 - Importance of **attention mechanisms** in improving translation quality.
 - Comparison between **BLEU score** and human evaluation.
+
